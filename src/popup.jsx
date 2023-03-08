@@ -7,7 +7,7 @@ import { InfinitySpin } from 'react-loader-spinner';
 import toast, { Toaster } from 'react-hot-toast';
 import './popup.css'
 const configuration = new Configuration({
-  apiKey: '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',
+  apiKey: 'your-api-key',
 });
 const openai = new OpenAIApi(configuration);
 function generatePrompt(title) {
