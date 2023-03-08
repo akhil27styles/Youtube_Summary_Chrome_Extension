@@ -3,12 +3,14 @@ Certainly! Here's a sample addReadme file for your YouTube summary Chrome extens
 
 <h1>YouTube Summary Chrome Extension</h1>
 <p>This Chrome extension provides a summary of a YouTube video based on its title. It is designed to help users quickly understand the key points of a video before deciding whether to watch it or not.</p>
-
-<h3>Installation</h3>
-To install the extension, follow these steps:
+Output Images
 <img width="960" alt="image1" src="https://user-images.githubusercontent.com/52193850/223695921-f39dda2c-9714-4345-9c26-9981da65cbbb.PNG">
 <img width="960" alt="image2" src="https://user-images.githubusercontent.com/52193850/223695963-7e3f1e66-e7fb-4b1f-901f-66c946cb0e48.PNG">
 <img width="960" alt="image3" src="https://user-images.githubusercontent.com/52193850/223695984-00c0f4ec-b5a1-4301-b48f-e47b2d7ff7ce.PNG">
+
+<h3>Installation</h3>
+To install the extension, follow these steps:
+
 
 <h3>Clone or download the repository to your local machine.</h3>
 do npm install and run npm run dev
