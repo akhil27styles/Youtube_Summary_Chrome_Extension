@@ -2,7 +2,7 @@
 Certainly! Here's a sample addReadme file for your YouTube summary Chrome extension:
 
 <h1>YouTube Summary Chrome Extension</h1>
-This Chrome extension provides a summary of a YouTube video based on its title. It is designed to help users quickly understand the key points of a video before deciding whether to watch it or not.
+<p>This Chrome extension provides a summary of a YouTube video based on its title. It is designed to help users quickly understand the key points of a video before deciding whether to watch it or not.</p>
 ![typing Image](https://ibb.co/vvCVYs2)
 ![loading Image](https://ibb.co/PxRk0X7)
 ![summary Image](https://ibb.co/4WhqSw5)
