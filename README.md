@@ -4,7 +4,7 @@ Certainly! Here's a sample addReadme file for your YouTube summary Chrome extens
 <h1>YouTube Summary Chrome Extension</h1>
 <p>This Chrome extension provides a summary of a YouTube video based on its title. It is designed to help users quickly understand the key points of a video before deciding whether to watch it or not.</p>
 Output Images
-<img width="960" alt="image1" src="https://user-images.githubusercontent.com/52193850/223695921-f39dda2c-9714-4345-9c26-9981da65cbbb.PNG">
+<img width="960" alt="image1" src="https://user-images.githubusercontent.com/52193850/223696435-4e9cca42-15c4-4040-bd7f-797b5af47755.PNG">
 <img width="960" alt="image2" src="https://user-images.githubusercontent.com/52193850/223695963-7e3f1e66-e7fb-4b1f-901f-66c946cb0e48.PNG">
 <img width="960" alt="image3" src="https://user-images.githubusercontent.com/52193850/223695984-00c0f4ec-b5a1-4301-b48f-e47b2d7ff7ce.PNG">
 
