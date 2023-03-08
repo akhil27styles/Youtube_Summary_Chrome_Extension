@@ -1,0 +1,75 @@
+.search-bar {
+    display: flex;
+    align-items: center;
+    border: 2px solid #f00;
+    border-radius: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 20px;
+}
+h3{
+    color: #f00;
+    font-size: 12px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.search-bar:focus {
+    outline: none; /* Remove the default outline */
+    border-radius: 10px;
+    border: 2px solid red;
+  }
+
+.search-bar input[type="text"] {
+    flex-grow: 1;
+    margin-left: 10px;
+    font-size: 16px;
+    border: 2px solid #f00;
+
+}
+.container{
+    text-align: center;
+}
+.search-bt{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: #f00;
+			color: #fff;
+			border: none;
+			border-radius: 5px;
+			font-size: 13px;
+			cursor: pointer;
+            font-family:cursive;
+}
+#text{
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #212121; /* YouTube black */
+}
+.fa{
+  cursor: pointer;
+  display: flex;
+}
+.result{
+    height: 150px;
+    overflow-y: scroll;
+    font-family:cursive;
+}
+
+
+  /* Set the color for the scroll bar thumb */
+  ::-webkit-scrollbar{
+    width: 2px;
+    height: 5px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: red;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: white;
+  }
+    
+  /* Set the width and height of the thumb */
+  ::-webkit-scrollbar-thumb:vertical {
+    height: 2px;
+  }
+  
